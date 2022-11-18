@@ -1,0 +1,46 @@
+body{
+    background-color: beige;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    color: blue;
+    display: fixed;
+    background-color: aliceblue;
+    padding: 50px;
+    margin-bottom: 25px;
+}
+
+image {
+    padding-top: 25px;
+    padding: 50px;
+    display: block;
+    margin-bottom: 25px;
+}
+
+footer{
+    color: blue;
+    display: fixed;
+    background-color: aliceblue;
+
+}
+
+
+form{
+    margin-top: 25px;
+    background-color: white;
+    padding: 50px;
+}
+
+form label{
+    display: block;
+}
+
+.button{
+    margin-top: 35px;
+    background-color: aqua;
+}
+
+nav {
+    display: inlines;
+}
